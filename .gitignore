@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+__pycache__
+*.py[cod]
+*$py.class
+*.png
+*.tmp
+log.html
+output.xml
+report.html
